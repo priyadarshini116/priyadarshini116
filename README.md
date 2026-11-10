@@ -21,3 +21,55 @@ I enjoy exploring new technologies, solving real-world problems, and transformin
 - 🤝 Open to internships, collaborations, and exciting opportunities.
 
 ---
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Supervised & Unsupervised Learning
+
+### 📚 Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,tensorflow,pytorch,sklearn" />
+</p>
+
+### 🧠 Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Hugging Face
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github" />
+</p>
+- Google Colab
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🧪 Testing & Evaluation
+- Model Evaluation
+- Accuracy, Precision, Recall & F1-Score
+- API Testing
+- Pytest
+
+### 🌐 Deployment & Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi" />
+</p>
+- Streamlit
+
+---
