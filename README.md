@@ -88,3 +88,43 @@ I enjoy exploring new technologies, solving real-world problems, and transformin
 </div>
 
 ---
+---
+
+## 🎯 Current Focus
+
+- 🤖 Building real-world Artificial Intelligence and Machine Learning projects.
+- 🧠 Exploring Generative AI, LLMs, and Retrieval-Augmented Generation.
+- 💻 Strengthening Python and Software Engineering skills.
+- 📚 Practicing Data Structures, Algorithms, and problem-solving.
+- 🚀 Learning to build and deploy AI-powered applications.
+- 🌱 Continuously learning and improving my technical skills.
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on and exploring:
+
+- 🤖 **AI & Machine Learning Projects** – Developing intelligent solutions using Python and Machine Learning.
+- 🧠 **Generative AI Projects** – Exploring LLMs, Prompt Engineering, and RAG-based applications.
+- 🌐 **Web Development Projects** – Building applications using HTML, CSS, Python, and web frameworks.
+
+*More exciting projects coming soon! Stay tuned.*
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with developers, AI enthusiasts, and professionals.
+
+- 💻 **GitHub:** [@priyadarshini116](https://github.com/priyadarshini116)
+- 📧 **Email:** [priyadarshinipd58@gmail.com](mailto:priyadarshinipd58@gmail.com)
+- 💼 **LinkedIn:** [Priyadarshini M N](https://www.linkedin.com/in/priyadarshini-mn/)
+
+🤝 Open to internships, collaborations, and opportunities to learn and grow.
+
+---
+
+### ✨ "Turning ideas into intelligent solutions, one line of code at a time."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
