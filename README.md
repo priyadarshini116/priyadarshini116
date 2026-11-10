@@ -1,3 +1,4 @@
+![GitHub Profile Banner](./a_polished_dark_futuristic_tech_themed_github_sty.png)
 # 👋 Hi, I'm Priyadarshini M N!
 
 ### 🤖 AI & Machine Learning Enthusiast | Aspiring Software Engineer
