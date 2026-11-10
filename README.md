@@ -73,3 +73,18 @@ I enjoy exploring new technologies, solving real-world problems, and transformin
 - Streamlit
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyadarshini116&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshini116&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=priyadarshini116&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+---
